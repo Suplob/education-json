@@ -2,46 +2,56 @@
   {
     "name": "Complete C++ Course",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png",
-    "content": "This is the best C++ course in this world. Everything about C++ will be covered in this course. So Hop in :)"
+    "content": "This is the best C++ course in this world. Everything about C++ will be covered in this course. So Hop in :)",
+    "price": "18"
   },
   {
     "name": "Complete Web Development Course",
     "img": "https://webapp99.com/wp-content/uploads/2020/04/web-development-guideline-for-2020-t0-2030.jpeg",
-    "content": "This is the best web development course in this world. Everything about web development will be covered in this course. So Hop in :)"
+    "content": "This is the best web development course in this world. Everything about web development will be covered in this course. So Hop in :)",
+    "price": "12"
   },
   {
     "name": "Complete Python Course",
     "img": "https://venturebeat.com/wp-content/uploads/2018/09/python3.jpg?fit=2017%2C1201&strip=all",
-    "content": "This is the best Python course in this world. Everything about Python will be covered in this course. So Hop in :)"
+    "content": "This is the best Python course in this world. Everything about Python will be covered in this course. So Hop in :)",
+    "price": "14"
   },
   {
     "name": "Complete Java Course",
     "img": "https://cdn.vox-cdn.com/thumbor/_AobZZDt_RVStktVR7mUZpBkovc=/0x0:640x427/1200x800/filters:focal(0x0:640x427)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg",
-    "content": "This is the best Java course in this world. Everything about Java will be covered in this course. So Hop in :)"
+    "content": "This is the best Java course in this world. Everything about Java will be covered in this course. So Hop in :)",
+    "price": "17"
   },
   {
     "name": "Complete Flutter Course",
     "img": "https://www.freecodecamp.org/news/content/images/2021/08/Flutter-logo.png",
-    "content": "This is the best flutter course in this world. Everything about flutter will be covered in this course. So Hop in :)"
+    "content": "This is the best flutter course in this world. Everything about flutter will be covered in this course. So Hop in :)",
+    "price": "32"
   },
   {
     "name": "Complete JavaScript Course",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png",
-    "content": "This is the best JavaScript course in this world. Everything about JavaScript will be covered in this course. So Hop in :)"
+    "content": "This is the best JavaScript course in this world. Everything about JavaScript will be covered in this course. So Hop in :)",
+    "price": "25"
   },
   {
     "name": "Complete Kotlin Course",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png",
-    "content": "This is the best Kotlin course in this world. Everything about Kotlin will be covered in this course. So Hop in :)"
+    "content": "This is the best Kotlin course in this world. Everything about Kotlin will be covered in this course. So Hop in :)",
+    "price": "50"
   },
   {
     "name": "Complete C# Course",
     "img": "https://images.ctfassets.net/23aumh6u8s0i/1IKVNqiLhNURzZXp652sEu/4379cfba19f0e19873af6074d3017f70/csharp",
-    "content": "This is the best C# course in this world. Everything about C# will be covered in this course. So Hop in :)"
+    "content": "This is the best C# course in this world. Everything about C# will be covered in this course. So Hop in :)",
+    "price": "10"
   },
   {
     "name": "Complete TypeScript Course",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png",
-    "content": "This is the best TypeScript course in this world. Everything about TypeScript will be covered in this course. So Hop in :)"
+    "content": "This is the best TypeScript course in this world. Everything about TypeScript will be covered in this course. So Hop in :)",
+    "price": "22"
   }
 ]
+
